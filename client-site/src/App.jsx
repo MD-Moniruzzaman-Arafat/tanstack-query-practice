@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <>
-      <p className="read-the-docs">tanstack practice project</p>
+      <p className="text-center text-xl font-bold">tanstack practice project</p>
     </>
   );
 }
